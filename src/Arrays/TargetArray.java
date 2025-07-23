@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.*;
 
-public class Trash {
+public class TargetArray {
     public static int[] createTargetArray(int[] nums, int[] index) {
         List<Integer> target = new ArrayList<>();
 
