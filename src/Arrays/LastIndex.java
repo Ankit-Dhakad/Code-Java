@@ -1,4 +1,4 @@
-//Calculating that How many times "x" came in the array
+//Calculating the last Index of "x" came in the array
 
 package Arrays;
 import java.util.Scanner;
