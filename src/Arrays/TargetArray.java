@@ -37,7 +37,7 @@ target.add(index[i], nums[i]);
 
 >What This Line Means
 
-I am adding an element `nums[i]` into the `target` list **at a specific position** `index[i]`.
+I am adding an element `nums[i] into the `target` list at a specific position `index[i]`.
 
 > Syntax Breakdown
 
